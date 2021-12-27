@@ -2,13 +2,13 @@
 
 :us:	
 
-Development and integration of a Home automation software. 
+Home automation software development.
 Local control and respect for privacy are our domain!
 
 :poland:
 
-Tworzenie i integracja oprogramowania Automatyki domowej.
-Działanie lokalne i poszanowanie prywatności to nasza domena!
+Rozwój oprogramowania do automatyki domowej.
+Naszą domeną jest lokalne działanie i poszanowanie prywatności!
 
 www.ai-speaker.com
 
